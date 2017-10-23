@@ -1,6 +1,6 @@
 # kenya-community-healthcare-financing
 
-Repository for difference-in-difference analysis of Kenya Community Basehd Healthcare Financing Scheme
+Repository for difference-in-difference analysis of Kenya Community Based Healthcare Financing Scheme
 All analysis conducted in Stata
 
 Data Sources:
